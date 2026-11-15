@@ -10,7 +10,7 @@ I'm curious about technology and enjoy exploring different fields, learning new 
 
 Explore my personal portfolio to learn more about my background, skills, interests, and projects.
 
-🔗 **[Visit My Portfolio]https://my-portfolio-nine-lake-ctrni33pqx.vercel.app/**
+🔗 **[Visit My Portfolio]([YOUR_VERCEL_URL](https://my-portfolio-nine-lake-ctrni33pqx.vercel.app/))**
 
 ### 🎓 Education
 
